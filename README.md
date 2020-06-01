@@ -21,5 +21,4 @@ Let's train for 15 epochs. The Loss and Accuracy are a great indication of progr
 Let's now take a look at actually running a prediction using the model. The code in the notebook will allow you to choose 1 or more files from your file system, it will then upload them, and run them through the model, giving an indication of whether the object is a horse or a human. You can download images from the internet to your file system to try them out!
 
 
-## Visualization
 
